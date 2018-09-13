@@ -1,0 +1,4 @@
+app_dir: '/root/example_railsapp'
+
+secret_key_base: '{{ vault_secret_key_base }}'
+secret_token: '{{ vault_secret_token }}'
